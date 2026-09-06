@@ -1,5 +1,5 @@
 ### AnyKernel3 Ramdisk Mod Script
-## osm0sis @ xda-developers & GitHub @ Xiaomichael&抖音王德发刷机
+## osm0sis @ xda-developers & 抖音王德发刷机
 
 ### AnyKernel setup
 # global properties

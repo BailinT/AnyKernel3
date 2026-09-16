@@ -1,0 +1,3 @@
+# CI(Linux)检出的文本文件必须是 LF：CRLF 会让 AnyKernel3 的属性解析读到回车符，
+# 导致 supported.versions 空值保护失效并在刷入时报 "Unsupported Android version. Aborting..."
+* text=auto eol=lf
